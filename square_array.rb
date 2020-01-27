@@ -1,6 +1,7 @@
 def square_array(array)
+  result= []
   array.each do |jath|
-   jath **2 
+   result.push(jath **2 )
   end
-  return array 
+  return result
 end
