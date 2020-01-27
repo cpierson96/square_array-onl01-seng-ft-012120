@@ -5,3 +5,5 @@
   #end
   #return result
 #end
+def square_array(array)
+  
